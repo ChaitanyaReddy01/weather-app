@@ -373,8 +373,7 @@ body {
   }
 
   .forecast-section {
-    height: 110px; /* Adjusted for better visibility */
-    margin: 0 10px;
+    height: 110px; 
   }
 
   .hourly-forecast,
